@@ -1,11 +1,11 @@
 print ('Begin', __name__)
 
-print ('Define fB')
+print ('Define fA')
 
 def fA():
-    print('Dentro do fB')
+    print('Dentro do fA')
 
-print ('Chama fB')
+print ('Chama fA')
 fA()
 
 print ('End', __name__)
